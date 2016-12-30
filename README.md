@@ -12,7 +12,7 @@ regular paragraph. The quick brown foz jumped over the lazy dog's backs.
 
 > ## This is a level 2 heading in a blockqoute.
 
-Some of these words * are emphasized*
+Some of these words *are emphasized*
 
 _so are these words_.
 
