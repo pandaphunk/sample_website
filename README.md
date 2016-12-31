@@ -26,4 +26,5 @@ Lists of stuff:
 +	Decks.
 +	Sennheiser.
 
-This was merely a sample of some markdown tags. This README is intended to be purely a sample. Just like the entire repo that it describes.
+This was merely a sample of some markdown tags. This README is intended to be purely a sample.
+Just like the entire repo that it describes.
